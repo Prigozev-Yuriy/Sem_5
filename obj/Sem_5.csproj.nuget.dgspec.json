@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj": {}
+    "e:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj": {}
   },
   "projects": {
-    "E:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj": {
+    "e:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj",
+        "projectUniqueName": "e:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj",
         "projectName": "Sem_5",
-        "projectPath": "E:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj",
+        "projectPath": "e:\\GeekBrains\\C#\\Examples\\Sem_5\\Sem_5.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "E:\\GeekBrains\\C#\\Examples\\Sem_5\\obj\\",
+        "outputPath": "e:\\GeekBrains\\C#\\Examples\\Sem_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
