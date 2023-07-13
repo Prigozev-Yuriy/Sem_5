@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\bin\Debug\net6.0\Task_38.exe
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\bin\Debug\net6.0\Task_38.deps.json
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\bin\Debug\net6.0\Task_38.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\bin\Debug\net6.0\Task_38.dll
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\bin\Debug\net6.0\Task_38.pdb
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.dll
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\refint\Task_38.dll
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.pdb
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\Task_38.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Sem_5\Homework\Task_38\obj\Debug\net6.0\ref\Task_38.dll
